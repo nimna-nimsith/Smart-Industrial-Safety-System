@@ -1,36 +1,7 @@
-\# 🏭 Smart Industrial Safety \& Monitoring System
-
+# 🏭 Smart Industrial Safety & Monitoring System
 &#x20;
 
-<div align="center">
-
-!\[ESP32-C3](https://img.shields.io/badge/ESP32--C3\_Mini-Microcontroller-red?style=for-the-badge\&logo=espressif\&logoColor=white)
-
-!\[Arduino](https://img.shields.io/badge/Arduino\_IDE-Compatible-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-
-!\[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-!\[Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-
-!\[WiFi](https://img.shields.io/badge/WiFi-Web\_Server-blue?style=for-the-badge\&logo=wifi\&logoColor=white)
-
-&#x20;
-
-\*\*A real-time industrial safety controller that monitors gas leakage, temperature, humidity, and motion — automatically triggering alarms and machine shutdown when hazardous conditions are detected. Features a live WiFi web dashboard accessible from any browser on the network.\*\*
-
-&#x20;
-
-\[Features](#-features) • \[Hardware](#-hardware) • \[Pin Config](#-pin-configuration) • \[Libraries](#-libraries) • \[Setup](#-setup--installation) • \[Web Dashboard](#-web-dashboard) • \[Working Principle](#-working-principle)
-
-&#x20;
-
-</div>
-
-\---
-
-&#x20;
-
-\## 📌 Project Overview
+ 📌 Project Overview
 
 &#x20;
 
@@ -46,11 +17,9 @@ This system simulates a real industrial safety controller built around the \*\*E
 
 \- 🌐 \*\*Updates live web dashboard\*\* over WiFi in real time
 
-> \*\*Developed as an academic embedded systems project\*\*  
+> \*\*Developed as an academic embedded systems project\*\*
 
-> Institute of Technology, University of Moratuwa (ITUM)  
-
-> Department of Electronic \& Telecommunication Engineering
+  
 
 &#x20;
 
